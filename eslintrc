@@ -69,7 +69,7 @@
     "consistent-this": ["error", "self"],
     "func-names": "error",
     "jsx-quotes": ["error", "prefer-double"],
-    "indent": ["error", 4, {"SwitchCase": 1}],
+    "indent": ["error", 2, {"SwitchCase": 1}],
     "no-mixed-spaces-and-tabs": "error",
     "no-tabs": "error",
     "no-trailing-spaces": "error",
