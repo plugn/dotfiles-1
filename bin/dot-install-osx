@@ -74,3 +74,5 @@ npm install -g eslint
 
 # Installing jekyll
 gem install jekyll --user-install
+gem install bundler --user-install
+
