@@ -3,7 +3,7 @@ if [ -n "$PS1" ]; then
     export LANG=en_US.UTF-8
     export TERM=xterm-256color
 
-    export PATH=$HOME/.dotfiles/bin/:$PATH
+    export PATH=$HOME/.dotfiles/bin/:$HOME/.gem/ruby/2.0.0/bin:$PATH
 
     export PASSBOX_LOCATION=$HOME/Dropbox/.passwords.gpg
 

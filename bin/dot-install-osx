@@ -73,4 +73,4 @@ npm install -g postcss-cli postcss-sorting
 npm install -g eslint
 
 # Installing jekyll
-gem install jekyll
+gem install jekyll --user-install
