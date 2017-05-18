@@ -37,6 +37,7 @@ brew install ack
 # brew install git
 brew install imagemagick@6 --force --with-webp
 brew link imagemagick@6 --force
+brew install gifsicle
 brew install potrace
 brew install ssh-copy-id
 brew install tree
