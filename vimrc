@@ -309,6 +309,7 @@
 
     let g:pathogen_disabled = []
     call add(g:pathogen_disabled, 'vim-jsx')
+    call add(g:pathogen_disabled, 'vim-cursorword')
     execute pathogen#infect()
 
 " }
