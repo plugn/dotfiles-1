@@ -1,14 +1,12 @@
-# Compiled Python files
-*.pyc
-
-# Folder view configuration files
-.DS_Store
-Desktop.ini
-
-# Thumbnail cache files
-._*
-Thumbs.db
-
-# Files that might appear on external disks
-.Spotlight-V100
-.Trashes
+*.o
+*.log
+*.so
+vim/.netrwhist
+vim/.VimballRecord
+vim/doc/tags
+vim/doc/tags-ja
+vim/yankring_history_v2.txt
+vim/ftdetect/tmpl.vim
+vim/plugin/booking.vim
+vim/syntax/tmpl.vim
+vim/view
